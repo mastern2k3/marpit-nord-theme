@@ -6,9 +6,10 @@ This is a [Marp] slides theme based on the [Nord color palette].
 
 ## Usage
 
-With the Visual Studio Code Marp extension:
+With the Visual Studio Code Marp extension, add this to your `.vscode/settings.json` file:
 
 ```json
+{
     "markdown.marp.themes": [
         "https://raw.githubusercontent.com/mastern2k3/marpit-nord-theme/master/build/nord-theme.css",
     ]
